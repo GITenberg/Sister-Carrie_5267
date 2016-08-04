@@ -1,0 +1,57 @@
+_repo: Sister-Carrie_5267
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 5267/5267-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Dreiser, Theodore
+    birthdate: 1871
+    deathdate: 1945
+    gutenberg_agent_id: '130'
+    url: http://www.gutenberg.org/2009/agents/130
+    wikipedia: http://en.wikipedia.org/wiki/Theodore_Dreiser
+description: "Sister Carrie (1900) is a novel by Theodore Dreiser about a young country\
+  \ girl who moves to the big city where she starts realizing her own American Dream,\
+  \ first as a mistress to men that she perceives as superior, and later becoming\
+  \ a famous actress. It has been called the \"greatest of all American urban novels.\"\
+  \n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Banned Books from Anne Haight's list
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5267'
+  wikidata: Q1286961
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Didactic fiction'
+- !lcsh 'Mistresses -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Chicago (Ill.) -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Sister Carrie
+url: http://www.gutenberg.org/ebooks/5267
+wikipedia:
+- https://eo.wikipedia.org/wiki/Fratino_Karinjo
+- https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A3%D8%AE%D8%AA_%D9%83%D8%A7%D8%B1%D9%8A
+- https://zh.wikipedia.org/wiki/%E5%98%89%E8%8E%89%E5%A6%B9%E5%A6%B9
+- https://hy.wikiquote.org/wiki/%D5%94%D5%B8%D6%82%D5%B5%D6%80_%D5%94%D5%A5%D6%80%D6%80%D5%AB
+- https://ka.wikipedia.org/wiki/%E1%83%93%E1%83%90%E1%83%98%E1%83%99%E1%83%9D_%E1%83%99%E1%83%94%E1%83%A0%E1%83%98
+- https://de.wikipedia.org/wiki/Schwester_Carrie
+- https://en.wikipedia.org/wiki/Sister_Carrie
+- https://ru.wikiquote.org/wiki/%D0%A1%D0%B5%D1%81%D1%82%D1%80%D0%B0_%D0%9A%D0%B5%D1%80%D1%80%D0%B8
+- https://sk.wikipedia.org/wiki/Sestra_Carrie
+- https://en.wikisource.org/wiki/Sister_Carrie
+- https://hy.wikipedia.org/wiki/%D5%94%D5%B8%D6%82%D5%B5%D6%80_%D5%94%D5%A5%D6%80%D6%80%D5%AB
+- https://it.wikipedia.org/wiki/Nostra_sorella_Carrie
+- https://uk.wikipedia.org/wiki/%D0%A1%D0%B5%D1%81%D1%82%D1%80%D0%B0_%D0%9A%D0%B5%D1%80%D1%80%D1%96
+- https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D1%81%D1%82%D1%80%D0%B0_%D0%9A%D0%B5%D1%80%D1%80%D0%B8
+- https://sh.wikipedia.org/wiki/Sister_Carrie
+- https://pa.wikipedia.org/wiki/%E0%A8%B8%E0%A8%BF%E0%A8%B8%E0%A8%9F%E0%A8%B0_%E0%A8%95%E0%A9%88%E0%A8%B0%E0%A9%80
